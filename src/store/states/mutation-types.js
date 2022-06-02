@@ -1,0 +1,8 @@
+export const SET_STATES = 'SET_STATES';
+export const SET_STATES_COPY = 'SET_STATES_COPY';
+export const SET_HIGHLIGHT = 'SET_HIGHLIGHT';
+export const SELECT_STATE = 'SELECT_STATE';
+export const SELECTED_STATE_DATA = 'SELECTED_STATE_DATA';
+export const SET_ERROR = 'SET_ERROR';
+export const SET_LOADING = 'SET_LOADING';
+

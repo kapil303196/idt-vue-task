@@ -1,0 +1,62 @@
+li {
+    cursor: pointer;
+  }
+  .clickable {
+    cursor: pointer;
+  }
+  .highlight {
+    background-color: pink;
+  }
+  tr {
+    height: 40px;
+    max-height: 40px;
+  }
+  .vh100 {
+    max-height: 100vh;
+  }
+  .ml-5 {
+    margin-left: 5em;
+  }
+  table {
+    height: 50px;
+  }
+  th[colspan]:not([colspan="1"]) {
+    text-align: center;
+  }
+  .fixTableHead {
+    overflow-y: auto;
+    margin: 2em;
+    height: 90vh;
+  }
+  .fixTableHead thead th {
+    position: sticky;
+    top: 0;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th,
+  td {
+    padding: 8px 15px;
+    border: 2px solid #529432;
+  }
+  th {
+    background-color: #529432 !important;
+  }
+  .m-2 {
+    margin: 2em;
+  }
+  .tw-25 {
+    width: 25em;
+  }
+  .search-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .main-layout {
+    flex-direction: column;
+  }
+  table {
+    min-width: 170px;
+  }
